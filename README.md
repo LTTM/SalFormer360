@@ -1,4 +1,4 @@
-# DR.WILSS
+# SalFormer360
 
 Official repository of the paper SalFormer360: Transformer-Based Saliency
 Estimation for 360-Degree Video Frames
