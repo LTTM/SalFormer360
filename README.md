@@ -1,4 +1,5 @@
 # DR.WILSS
+
 Official repository of the paper SalFormer360: Transformer-Based Saliency
 Estimation for 360-Degree Video Frames
 
@@ -10,7 +11,7 @@ Saliency estimation has received growing attention in recent years, due to its i
 in our model, we incorporated viewing biases such as Initial Frame Center Bias (IFCB) and Center Bias (CB) to reflect the natural user attention in 360-degree environments. Extensive experiments on the three largest benchmark datasets for saliency estimation demonstrate that SalFormer360 outperforms existing state-of-the-art methods. In terms of Pearson Correlation Coefficient (CC), our model achieves 8.34% higher performance on Sport360, 2.60% on PVS-HM, and 18.60% on VR-Eyetracking compared to previous state-of-the-art.
 
 <div align="center">
-  <img src="structure_new2.drawio.jpg" alt="Overview of the proposed 360-degree saliency estimation framework" width="60%"/>
+  <img src="structure.jpg" alt="Overview of the proposed 360-degree saliency estimation framework" width="60%"/>
 </div>
 
 > [!NOTE]  
