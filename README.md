@@ -107,7 +107,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/LTTM/SalFormer360.git
-cd saliency_360_project
 ```
 
 For GPU training, make sure that the installed PyTorch version is compatible with your CUDA environment.
