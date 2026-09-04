@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+
+# local data/cache
+*.jpg
+*.jpeg
+*.png
+*.npy
+*.pkl
+
+# checkpoints/results
+*.pth
+*.pt
+*.ckpt
+runs/
+results/
