@@ -106,7 +106,7 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/LTTM/SalFormer360.git
 cd saliency_360_project
 ```
 
@@ -119,13 +119,15 @@ For GPU training, make sure that the installed PyTorch version is compatible wit
 This project uses three 360° video saliency datasets.  
 Please download and place them inside the `datasets/` directory following the structure below:
 
+```text
 datasets/
+├── 360/
 │
-├── 360/ # Sport360 dataset
-├── pvs/ # PVS-HM dataset
-└── eye/ # VR-EyeTracking dataset
+├── pvs/
+│
+└── eye/
 
----
+```
 
 #### **1. Sport360 Dataset**
 
