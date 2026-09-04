@@ -12,7 +12,7 @@ Saliency estimation has received growing attention in recent years due to its im
 
 The overall architecture of SalFormer360 is illustrated below.
 
-![SalFormer360 model architecture](SalFormer360.pdf)
+![SalFormer360 model architecture](SalFormer360.jpg)
 
 > **Figure:** Overview of the SalFormer360 architecture.
 
