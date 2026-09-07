@@ -20,7 +20,7 @@ DATASET_CONFIGS = {
     },
     "eye": {
         "root": "./datasets/eye/VR-EyeTracking",
-        "pickle_file": "./datasets/eye/3VR-EyeTracking/head_data.pkl",
+        "pickle_file": "./datasets/eye/VR-EyeTracking/head_data.pkl",
         "bias_file": "./biases/eye_bias.png",
         "split": "eye",
     },
