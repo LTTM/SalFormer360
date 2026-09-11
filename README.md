@@ -138,12 +138,12 @@ Place Sport360 data inside datasets/360/:
 
 #### **2. PVS-HM Dataset**
 
-Download the processed PVS-HM dataset from [link] and place it in inside datasets/pvs/:
+Download the processed PVS-HM dataset from ![here](https://drive.google.com/file/d/1bL8cs9xJLP5yLRQyN_pB5Rj3sLDIfyrh/view?usp=drive_link), extract it, and place it in inside datasets/pvs/:
 This dataset has been processed following the procedure described in our paper (_Experimental Results → Datasets_ section).
 
 #### **3. VR-EyeTracking Dataset**
 
-Download the processed VR-EyeTracking dataset from [link] and place it in inside datasets/pvs/:
+Download the processed VR-EyeTracking dataset from ![here](https://drive.google.com/file/d/1Dsiu3mwaNsfAlJWzwIt-KI_nJ-CGmucg/view?usp=drive_link), extract it, and place it in inside datasets/eye/:
 This dataset also has been processed following the procedure described in our paper (_Experimental Results → Datasets_ section).
 
 #### **4. Optional**
